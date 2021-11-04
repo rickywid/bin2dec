@@ -2,7 +2,7 @@
 
 Bin2Dec allows the user to enter strings of up to 8 binary digits, 0's and 1's, in any sequence and then displays its decimal equivalent. This project is based off of [app-ideas/notes-app](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Notes-App.md).
 
-**[Live Site](https://rickywid.github.io/notes-app/)**
+**[Live Site](https://rickywid.github.io/b1n2dec/)**
 
 ### Technologies
 - [React](https://reactjs.org/)
